@@ -1,0 +1,116 @@
+#ex1Slider .slider-selection{
+  background: #428BCA;
+}
+.box{
+  min-height: 250px;
+  background-color: #F4F4F4;
+  border-right-color: #B0B0B0;
+  border-right-width: 2px #B0B0B0;
+  border-bottom-color: #B0B0B0;
+  border-bottom-width: 1px #B0B0B0;
+  border-radius: 5px;
+}
+.border{
+  margin-left: 30px;
+}
+.no-shadow{
+  border-radius: 0px;
+  min-width: 100px;
+  text-align: center;
+}
+.no-shadow:hover{
+  background-color: #FFFFFF;
+  color: #428BCA;
+}
+.subtext{
+  font-family: Exo,sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.error-span{
+  font-family: Exo,sans-serif;
+  font-size: 10px;
+  font-weight: 300;
+  color: #cb241b;
+}
+.no-selection{
+  font-family: Pacifico,sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center;
+  color:#BABABA;
+}
+.finish{
+  font-family: Pacifico,sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center;
+  color:#BABABA;
+}
+.supertext{
+  font-family: Exo,sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+.col-md-4.specs-desc{
+  text-align: right;
+  font-size: 14px;
+  font-family: Exo,sans-serif;
+}
+.col-md-8.specs-details{
+  text-align: left;
+  font-size: 14px;
+  font-family: Exo,sans-serif;
+  font-weight: bold;
+}
+.col-sm-6.specs-desc{
+  text-align: left;
+  font-size: 12px;
+  font-family: Exo,sans-serif;
+}
+.col-sm-6.specs-details{
+  text-align: left;
+  font-size: 12px;
+  font-family: Exo,sans-serif;
+  font-weight: bold;
+}
+.outlier{
+  background:#ffffff;
+  padding: 20px;
+  margin-top: 10px;
+  margin-top: 10px;
+  padding-bottom:30px;
+  min-height: 300px;
+  border:1px solid #d0d0d0;
+  border-bottom:2px solid #e0e0e0;
+  border-right:3px solid #e0e0e0;
+
+}
+.zoom-props{
+  width: 200px;
+  height: 275px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+   transition: all 1s ease;
+}
+.zoom-props:hover{
+  width: 300px;
+  height: 412px;
+}
+li{
+  list-style: none;
+}
+.centre{
+  text-align: center;
+  font-family: Exo,sans-serif;
+  font-weight: 400px;
+}
+hr{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.details{
+  margin-left: 30px;
+}
